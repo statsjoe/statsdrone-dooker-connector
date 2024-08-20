@@ -77,7 +77,3 @@ This connector is designed with flexibility in mind. Developers can customise it
 ## Contribution
 
 Contributions to this project are welcome! Feel free to open issues or submit pull requests to improve the functionality and documentation of this connector.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
